@@ -1,8 +1,5 @@
 # Armored Turtle Automated Filament Control - AMS integration
-#
-# Copyright (C) 2025
-#
-# This file may be distributed under the terms of the GNU GPLv3 license.
+
 
 import traceback
 
